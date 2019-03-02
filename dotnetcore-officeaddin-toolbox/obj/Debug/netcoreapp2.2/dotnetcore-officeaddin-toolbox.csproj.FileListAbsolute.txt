@@ -1,0 +1,13 @@
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\bin\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.deps.json
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\bin\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.runtimeconfig.json
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\bin\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.runtimeconfig.dev.json
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\bin\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.dll
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\bin\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.pdb
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\obj\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.csprojAssemblyReference.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\obj\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.csproj.CoreCompileInputs.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\obj\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.AssemblyInfoInputs.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\obj\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.AssemblyInfo.cs
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\obj\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.dll
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\obj\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.pdb
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\obj\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.shiminput.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-toolbox\obj\Debug\netcoreapp2.2\dotnetcore-officeaddin-toolbox.shimcreated.sentinel

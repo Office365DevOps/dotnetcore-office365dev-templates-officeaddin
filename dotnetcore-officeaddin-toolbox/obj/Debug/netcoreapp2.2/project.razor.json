@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\arechen\\dotnetcore-office365dev-templates-officeaddin\\dotnetcore-officeaddin-toolbox\\dotnetcore-officeaddin-toolbox.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
