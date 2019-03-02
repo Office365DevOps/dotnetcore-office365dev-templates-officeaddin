@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Ares Chen | 陈希章",
+    "classifications": [
+        "Common",
+        "Office"
+    ],
+    "identity": "chenxizhang.officeaddintemplate.excel",
+    "name": "Excel Add-in template",
+    "shortName": "excel",
+    "sourceName": "content"
+}
