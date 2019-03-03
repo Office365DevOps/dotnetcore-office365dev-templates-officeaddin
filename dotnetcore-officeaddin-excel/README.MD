@@ -1,4 +1,32 @@
-# Office Add-in 模板 - Excel
+# Office Add-in Template - Excel
+
+> Ares Chen @ 2019-3-2
+
+## How to install
+
+You can run the command `dotnet new -i chenxizhang.dotnetcore.officeaddin.excel` to install the template, please confirm the template list as below.
+
+![安装模板](images/2019-03-02-10-11-47.png)
+
+## Create the project
+
+You can create a new add-in project via `dotnet new excel -o youraddinname`
+
+![创建项目](images/2019-03-02-10-13-37.png)
+
+## Run the project
+
+If this is your first time to run a Office add-in project, you may need to run this command `dotnet dev-certs https -t` to install a local certificate and trust it. then you can switch to the project directory, and just hit  `dotnet run`, your add-in will running on 5000 and 5001 port.
+
+![运行项目](images/2019-03-02-10-15-26.png)
+
+## Sideload the add-in
+
+You have several ways to sideload the add-in in your environment, please read this article <https://docs.microsoft.com/zh-cn/office/dev/add-ins/testing/create-a-network-shared-folder-catalog-for-task-pane-and-content-add-ins>.
+
+And now your even have a easy way to do this, you can install a tool `office-toolbox` to save your time and have fun. please find the more detail information at <https://github.com/chenxizhang/dotnetcore-office365dev-templates-officeaddin/tree/master/dotnetcore-officeaddin-toolbox>
+
+## 中文说明
 
 > 作者：陈希章 于 2019-3-2
 
@@ -39,3 +67,5 @@
 ![执行代码](images/2019-03-02-10-22-04.png)
 
 > 这套模板是《Office 365开发入门指南》的开源代码一部分，如果有兴趣了解该书，或者配套视角教程，请参考 <https://github.com/chenxizhang/office365dev>
+
+你现在有一种更加简单的方式来实现旁加载，请参考我发布的新工具 <https://github.com/chenxizhang/dotnetcore-office365dev-templates-officeaddin/tree/master/dotnetcore-officeaddin-toolbox>

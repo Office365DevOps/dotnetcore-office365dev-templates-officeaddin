@@ -1,4 +1,29 @@
-# Office Add-in Toolbox 工具集
+# Office Add-in Toolbox 
+
+> Ares Chen @ 2019-3-3
+
+This is a toolbox for Office Add-in developers, It will be develop and update continuely.
+
+## How to Install
+
+You can install this toolbox via `dotnet tool install --global dotnetcore-officeaddin-toolbox`
+
+## How to Use
+
+Currently, this toolbox can only support Windows platform, and only one most popular scenario (`sideload`) was supported.
+
+## Use sideload command
+
+Please run `office-toolbox sideload manifest.xml Excel` to sideload your Add-in in second, this command have three parameters as below
+
+1. office-toolbox, this is the tool name, you always use this name for several commands.
+1. sideload, this is the command name,currently we only support `sideload` command.
+1. manifest.xml, this is the manifest file of your addin project.
+1. Excel, this is your hosted application name, currently we support `Excel`,`Word`,`PowerPoint`.
+
+Happy coding!
+
+## Office Add-in toolbox 工具集中文介绍
 
 > 陈希章 于 2019-3-3
 

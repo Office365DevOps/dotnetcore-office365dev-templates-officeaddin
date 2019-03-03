@@ -1,4 +1,14 @@
-# Office Add-in 开发模板
+# Office Add-in Templates and Tools
+
+> Ares Chen @ 2019-3-3
+
+This is a set of Office Add-in development templates that will include Excel, Word, PowerPoint, Outlook, and TaskPaneApp and ContentApp that they support. Some of them have been released so far.
+
+1. Excel TaskPaneApp Template, please reference to <https://github.com/chenxizhang/dotnetcore-office365dev-templates-officeaddin/blob/master/dotnetcore-officeaddin-excel/README.MD>
+
+And here will including a set of toolbox for the Office Add-in developers. The name is `Office-toolbox`, you can find more detail information here <https://github.com/chenxizhang/dotnetcore-office365dev-templates-officeaddin/blob/master/dotnetcore-officeaddin-toolbox/readme.md>
+
+## Office Add-in 模板和工具
 
 > 陈希章 于 2019-3-3
 
