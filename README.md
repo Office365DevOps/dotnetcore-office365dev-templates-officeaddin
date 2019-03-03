@@ -6,4 +6,4 @@
 
 1. Excel Template （详情参考<https://github.com/chenxizhang/dotnetcore-office365dev-templates-officeaddin/blob/master/dotnetcore-officeaddin-excel/README.MD> 的说明）
 
-另外，这里还将包含一套给Office Add-in开发人员准备的工具集 Office-toolbox ，目前已经发布的功能，包括Sideload（旁加载）。详情请参考 <>
+另外，这里还将包含一套给Office Add-in开发人员准备的工具集 Office-toolbox ，目前已经发布的功能，包括Sideload（旁加载）。详情请参考 <https://github.com/chenxizhang/dotnetcore-office365dev-templates-officeaddin/blob/master/dotnetcore-officeaddin-toolbox/readme.md> 的说明。
