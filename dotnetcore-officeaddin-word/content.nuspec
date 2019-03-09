@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>chenxizhang.dotnetcore.officeaddin.word</id>
+    <version>1.0.0</version>
+    <description>
+      A template for Word add-in。这是一个Word插件的模板。
+    </description>
+    <authors>Ares Chen | 陈希章</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>
