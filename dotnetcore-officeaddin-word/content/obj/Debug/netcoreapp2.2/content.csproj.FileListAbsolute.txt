@@ -12,3 +12,17 @@ C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-office
 C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-excel\content\obj\Debug\netcoreapp2.2\content.RazorTargetAssemblyInfo.cache
 C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-excel\content\obj\Debug\netcoreapp2.2\content.dll
 C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-excel\content\obj\Debug\netcoreapp2.2\content.pdb
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\bin\Debug\netcoreapp2.2\content.deps.json
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\bin\Debug\netcoreapp2.2\content.runtimeconfig.json
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\bin\Debug\netcoreapp2.2\content.runtimeconfig.dev.json
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\bin\Debug\netcoreapp2.2\content.dll
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\bin\Debug\netcoreapp2.2\content.pdb
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.csprojAssemblyReference.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.csproj.CoreCompileInputs.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.RazorAssemblyInfo.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.RazorAssemblyInfo.cs
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.AssemblyInfoInputs.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.AssemblyInfo.cs
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.RazorTargetAssemblyInfo.cache
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.dll
+C:\Users\arechen\dotnetcore-office365dev-templates-officeaddin\dotnetcore-officeaddin-word\content\obj\Debug\netcoreapp2.2\content.pdb

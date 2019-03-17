@@ -5,18 +5,18 @@
     };
 })();
 
-
 function showSampleData() {
+    console.log("entry");
     Word.run(function (ctx) {
-
+        console.log("call the method");
         // 为文档正文创建代理对象。
-        var body = context.document.body;
+        var body = ctx.document.body;
 
         // 将清空正文内容的命令插入队列。
         body.clear();
         // 将在 Word 文档正文结束位置插入文本的命令插入队列。
         body.insertText(
-            "这是通过代码插入的文本",
+            "这是通过按钮代码直接插入的文本",
             Word.InsertLocation.end);
 
 

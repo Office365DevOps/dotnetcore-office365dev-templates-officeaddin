@@ -43,7 +43,7 @@
             body.clear();
             // 将在 Word 文档正文结束位置插入文本的命令插入队列。
             body.insertText(
-                "This is a sample text inserted in the document",
+                "这是通过任务面板自动插入的文本—— 更多有关Office 365开发的内容，有兴趣可以参考《Office 365开发入门指南》一书，请参考 https://github.com/chenxizhang/office365dev",
                 Word.InsertLocation.end);
 
             // 通过执行排队的命令来同步文档状态，并返回承诺以表示任务完成。
