@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>chenxizhang.dotnetcore.officeaddin.excel</id>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <description>
       A template for Excel add-in。这是一个Excel插件的模板。
     </description>

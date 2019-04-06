@@ -8,5 +8,10 @@
     "identity": "chenxizhang.officeaddintemplate.excel",
     "name": "Excel Add-in template",
     "shortName": "excel",
-    "sourceName": "content"
+    "sourceName": "content",
+    "primaryOutputs": [
+        {
+            "path": "content.csproj"
+        }
+    ]
 }
